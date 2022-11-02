@@ -8,7 +8,9 @@ public class A02 {
 
         // 2. komut bu repository kaydi icin
         // git add . herseyi ekle
-        // tek bir dosya ekleyeceksek git add.A01
+        // tek bir dosya ekle
+    //
+    // yeceksek git add.A01
         //yaptigimiz son versiondan sonraki tum degisiklileri gondermek icin bu komut
 
 

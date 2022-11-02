@@ -5,6 +5,8 @@ public class A01 {
         System.out.println("Hello git");
         System.out.println("Hello hub");
 
+        int sayi= 10;
+
 
     }
 }
